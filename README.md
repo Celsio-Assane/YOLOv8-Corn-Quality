@@ -292,19 +292,22 @@ If you use this repository, please cite:
 
 # 👨‍🔬 Authors
 
-**Célsio Assane**
+This study was developed by researchers from the **Federal Goiano Institute (IF Goiano), Rio Verde, Goiás, Brazil**.
 
-Federal Goiano Institute (IF Goiano)
+| Author | Affiliation | ORCID |
+|---|---|---|
+| Célsio Assane | Federal Goiano Institute (IF Goiano), Rio Verde, GO, Brazil | https://orcid.org/0000-0002-3905-129X |
+| Osvaldo Resende | Federal Goiano Institute (IF Goiano), Rio Verde, GO, Brazil | https://orcid.org/0000-0001-5089-7846 |
+| Hellane Lima dos Santos | Federal Goiano Institute (IF Goiano), Rio Verde, GO, Brazil | https://orcid.org/0009-0007-8221-2275 |
+| Heyde Francielle do Carmo França | Federal Goiano Institute (IF Goiano), Rio Verde, GO, Brazil | https://orcid.org/0000-0002-2696-1083 |
+| Adriano Ferraz da Costa | Federal Goiano Institute (IF Goiano), Rio Verde, GO, Brazil | https://orcid.org/0009-0004-4950-5429 |
+| Renato Domiciano Silva Rosado | Federal Goiano Institute (IF Goiano), Rio Verde, GO, Brazil | https://orcid.org/0000-0002-8157-9581 |
+| Elivânio dos Santos Rosa | Federal Goiano Institute (IF Goiano), Rio Verde, GO, Brazil | https://orcid.org/0000-0002-9219-9592 |
 
-Graduate Program in Agricultural Sciences (PPGCA)
+**Programs:**
 
-Graduate Program in Applied Engineering and Sustainability (PPGEAS)
-
-Brazil
-
-ORCID:
-
-https://orcid.org/0000-0002-3905-129X 
+- Graduate Program in Agricultural Sciences (PPGCA)  
+- Graduate Program in Applied Engineering and Sustainability (PPGEAS)
 ---
 
 # 🙏 Acknowledgments
