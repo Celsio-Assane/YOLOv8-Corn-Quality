@@ -280,10 +280,13 @@ results = model.predict(
 If you use this repository, please cite:
 
 ```bibtex
-@software{assane_et_al_2026_corn,
-  author = {**Célsio Assane**¹, **Osvaldo Resende**¹, **Hellane Lima dos Santos**¹, **Heyde Francielle do Carmo França**¹, **Adriano Ferraz da Costa**¹, **Renato Domiciano Silva Rosado**¹, **Elivânio dos Santos Rosa**¹},
+@software{assane_2026_yolov8_corn_quality,
+  author = {Assane, Célsio; Resende, Osvaldo; Santos, Hellane Lima dos; Rosa, Elivânio dos Santos; França, Heyde Francielle do Carmo; Costa, Adriano Ferraz da; Rosado, Renato Domiciano Silva },
   title = {YOLOv8-Based Deep Learning for Automated Detection and Classification of Maize Kernel Quality},
   year = {2026},
+  version = {v1.0.0},
+  publisher = {GitHub},
+  organization = {Federal Goiano Institute (IF Goiano)},
   url = {https://github.com/Celsio-Assane/YOLOv8-Corn-Quality}
 }
 ```
