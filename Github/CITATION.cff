@@ -1,0 +1,61 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as follows."
+title: "YOLOv8-Corn-Quality: Automatic Corn Grain Quality Classification Using YOLOv8s"
+type: software
+
+authors:
+  - family-names: Assane
+    given-names: Célsio
+    orcid: "https://orcid.org/0000-0002-3905-129X"
+    affiliation: "Instituto Federal Goiano, Rio Verde, GO, Brazil"
+
+  - family-names: Resende
+    given-names: Osvaldo
+    orcid: "https://orcid.org/0000-0001-5089-7846"
+    affiliation: "Instituto Federal Goiano, Rio Verde, GO, Brazil"
+
+  - family-names: Santos
+    given-names: Hellane Lima dos
+    orcid: "https://orcid.org/0009-0007-8221-2275"
+    affiliation: "Instituto Federal Goiano, Rio Verde, GO, Brazil"
+
+  - family-names: França
+    given-names: Heyde Francielle do Carmo
+    orcid: "https://orcid.org/0000-0002-2696-1083"
+    affiliation: "Instituto Federal Goiano, Rio Verde, GO, Brazil"
+
+  - family-names: Costa
+    given-names: Adriano Ferraz da
+    orcid: "https://orcid.org/0009-0004-4950-5429"
+    affiliation: "Instituto Federal Goiano, Rio Verde, GO, Brazil"
+
+  - family-names: Rosado
+    given-names: Renato Domiciano Silva
+    orcid: "https://orcid.org/0000-0002-8157-9581"
+    affiliation: "Instituto Federal Goiano, Rio Verde, GO, Brazil"
+
+  - family-names: Rosa
+    given-names: Elivânio dos Santos
+    orcid: "https://orcid.org/0000-0002-9219-9592"
+    affiliation: "Instituto Federal Goiano, Rio Verde, GO, Brazil"
+
+repository-code: "https://github.com/Celsio-Assane/YOLOv8-Corn-Quality"
+
+abstract: >
+  Source code, trained model, configuration files, and notebooks
+  for automatic corn grain quality detection and classification
+  using the YOLOv8s object detection architecture.
+
+keywords:
+  - YOLOv8
+  - Deep Learning
+  - Computer Vision
+  - Corn
+  - Grain Quality
+  - Object Detection
+  - Agriculture
+  - Postharvest
+
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2026-07-14"
