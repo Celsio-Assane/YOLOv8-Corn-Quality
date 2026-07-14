@@ -280,9 +280,9 @@ results = model.predict(
 If you use this repository, please cite:
 
 ```bibtex
-@software{assane2026corn,
-  author = {Célsio Assane},
-  title = {YOLOv8-Corn-Quality},
+@software{assane_et_al_2026_corn,
+  author = {**Célsio Assane**¹, **Osvaldo Resende**¹, **Hellane Lima dos Santos**¹, **Heyde Francielle do Carmo França**¹, **Adriano Ferraz da Costa**¹, **Renato Domiciano Silva Rosado**¹, **Elivânio dos Santos Rosa**¹},
+  title = {YOLOv8-Based Deep Learning for Automated Detection and Classification of Maize Kernel Quality},
   year = {2026},
   url = {https://github.com/Celsio-Assane/YOLOv8-Corn-Quality}
 }
